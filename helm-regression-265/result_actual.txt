@@ -1,0 +1,5 @@
+$ helm get values myapp
+
+myinfo:                                                                       
+  keys:                                                                       
+  - aaa,bbb,ccc
